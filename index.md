@@ -1,4 +1,4 @@
-[Home](./index.md) | [Projects](./projects.md) | [About Me](./about.md) | [Contact Me](mailto:your-email@example.com)
+[Home](./index.md) | [Projects](./projects.md) | [About Me](./about.md) | [Contact Me](solomonsmithdev@gmail.com)
 
 # Solomon Smith - Software Engineer
 
