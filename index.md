@@ -6,3 +6,5 @@ Hello! I’m Solomon Smith, a software engineer and computer science major at Ca
 - [GitHub](https://github.com/SolomonSmith-dev)
 - [LinkedIn](https://www.linkedin.com/in/solomonsmithdev/)
 - [Email Me](solomonsmithdev@gmail.com)
+
+[Learn more about me](./about.md)
