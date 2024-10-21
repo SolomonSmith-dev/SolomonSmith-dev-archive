@@ -11,9 +11,3 @@ In my free time, I enjoy contributing to tech communities, working on personal c
 - C++
 - Web Development
 
----
-layout: default
-title: "Solomon Smith Portfolio"
-description: "Explore Solomon Smith's portfolio featuring projects in web development and cybersecurity."
-keywords: "Software Engineer, Full-Stack Developer, Cybersecurity"
----
