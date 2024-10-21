@@ -1,3 +1,5 @@
+[Home](./index.md) | [Projects](./projects.md) | [About Me](./about.md) | [Contact Me](mailto:your-email@example.com)
+
 # About Me
 
 I am a computer science student at [Your University] with a passion for software engineering and cybersecurity. I love working on open-source projects and learning new technologies.
