@@ -4,10 +4,11 @@
 
 Hello! I’m Solomon Smith, a software engineer and computer science major at California State University San Bernardino. I am passionate about building scalable applications and solving real-world problems through technology.
 
-[Learn more about me](./about.md)
-[See all projects](./projects.md)
+### [Learn more about me](./about.md)
 
-# Connect with Me
+### [See all projects](./projects.md)
+
+### Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SolomonSmith-dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/solomonsmithdev/)
