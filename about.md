@@ -1,4 +1,4 @@
-[Home](./index.md) | [Projects](./projects.md) | [About Me](./about.md) | [Contact Me](solomonsmithdev@gmail.com)
+[Home](./index.md) | [Projects](./projects.md) | [About Me](./about.md) | [Contact Me](mailto:solomonsmithdev@gmail.com)
 
 # About Me
 
