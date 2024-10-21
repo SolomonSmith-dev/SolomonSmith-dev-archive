@@ -1,3 +1,5 @@
+[Home](./index.md) | [Projects](./projects.md) | [About Me](./about.md) | [Contact Me](mailto:your-email@example.com)
+
 ---
 layout: default
 title: "Projects"
