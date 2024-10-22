@@ -7,9 +7,6 @@ Welcome to my personal portfolio website, built using GitHub Pages. This site sh
 - [Live Demo](#live-demo)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-- [License](#license)
-- [Contact](#contact)
 
 ## Live Demo
 
