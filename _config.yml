@@ -5,7 +5,7 @@ url: "https://solomon-smith-dev.tech"
 baseurl: "" # Leave blank for root
 
 # Theme settings
-theme: "minimal-mistakes-jekyll"
+
 minimal_mistakes_skin: "dark" # You can change to "air", "contrast", "mint", etc.
 
 plugins:
