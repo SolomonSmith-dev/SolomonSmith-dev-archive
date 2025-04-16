@@ -1,6 +1,5 @@
-# Open Graph metadata for better social media sharing
-title: "Solomon Smith - Software Engineer"
-description: "Explore Solomon Smith's portfolio of projects in software engineering, full-stack development, and cybersecurity."
+title: "Solomon Smith - AI & Software Engineer"
+description: "Portfolio of Solomon Smith, an aspiring AI engineer with a focus on machine learning, full-stack development, and systems programming."
 author: "Solomon Smith"
 url: "https://solomon-smith-dev.tech"
 remote_theme: pages-themes/slate@v0.2.0
@@ -8,8 +7,8 @@ plugins:
   - jekyll-remote-theme
   - jekyll-sitemap
 
-# SEO meta tags
 seo:
-  title: "Solomon Smith"
-  description: "Portfolio of Solomon Smith, a full-stack software engineer specializing in web development."
-  keywords: "Software Engineer, Full-Stack Developer, Cybersecurity, Portfolio, Solomon Smith"
+  title: "Solomon Smith - AI Engineer"
+  description: "Portfolio of Solomon Smith, a computer science student and AI engineer in training, working with ML, C++, and full-stack development."
+  keywords: "AI, Machine Learning, Deep Learning, Software Engineer, Full-Stack Developer, Solomon Smith, FastAPI, PyTorch"
+
