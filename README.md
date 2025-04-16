@@ -1,32 +1,70 @@
-# Solomon Smith - Portfolio Website
+# Solomon Smith — Professional Portfolio
 
-Welcome to my personal portfolio website, built using GitHub Pages. This site showcases my projects, skills, and experience in full-stack web development and cybersecurity. You can visit the live site [here](https://solomon-smith-dev.tech).
+This repository hosts the source code and structure for my professional portfolio website, built using GitHub Pages and Jekyll. The site highlights my ongoing work in computer science, with a focus on AI engineering, full-stack development, and systems programming.
 
-## Table of Contents
+Visit the live portfolio: [solomon-smith-dev.tech](https://solomon-smith-dev.tech)
 
+---
+
+## Contents
+
+- [About the Site](#about-the-site)
 - [Live Demo](#live-demo)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
+- [Core Features](#core-features)
+- [Technology Stack](#technology-stack)
+- [Contact](#contact)
+
+---
+
+## About the Site
+
+This site serves as a living technical portfolio. It documents current and past projects, long-term learning tracks, and professional goals related to:
+
+- Machine Learning and Deep Learning (TensorFlow, PyTorch)
+- Software Engineering and Systems Programming (Python, C++)
+- Full-Stack Web Development (FastAPI, React, Docker)
+- Equity and representation in tech
+
+Each section is designed to grow alongside my skill set and experience as I prepare for a career in artificial intelligence and software engineering.
+
+---
 
 ## Live Demo
 
-You can view the live version of my portfolio at:
-👉 **[solomon-smith-dev.tech](https://solomon-smith-dev.tech)**
+You can view the deployed version of the portfolio at:
 
-## Features
+**[solomon-smith-dev.tech](https://solomon-smith-dev.tech)**
 
-- **Responsive Design**: Fully responsive layout optimized for mobile and desktop devices.
-- **SEO Optimized**: Metadata, Open Graph, and Twitter Card tags for better search engine performance and social media sharing.
-- **Projects Section**: Detailed portfolio of projects with links to GitHub repositories.
-- **Custom 404 Page**: A friendly 404 error page that enhances user experience.
-- **Social Media Integration**: GitHub, LinkedIn, and Gmail badges for easy contact.
+---
 
-## Technologies Used
+## Core Features
 
-- **GitHub Pages**: Hosting and deployment.
-- **Jekyll**: Static site generator.
-- **HTML & Markdown**: For page structure and content.
-- **CSS**: For styling and responsiveness.
-- **Open Graph & Twitter Cards**: For social media sharing.
-- **Google Analytics**: For tracking site performance.
+- **Responsive Design**: Optimized layout across desktop and mobile devices
+- **Project-Based Navigation**: Dedicated pages for project details and repository links
+- **SEO and Metadata Optimization**: Custom metadata, Open Graph, and Twitter Card integration
+- **Custom 404 Page**: Clean fallback experience
+- **Version-Controlled Content**: Managed with GitHub for ongoing updates and transparency
 
+---
+
+## Technology Stack
+
+- **GitHub Pages**: Static site hosting
+- **Jekyll**: Static site generator
+- **Markdown**: Content formatting
+- **HTML/CSS**: Custom styling and structure
+- **Open Graph & Twitter Cards**: Social metadata
+- **Google Analytics**: Performance monitoring
+- **GitHub CLI / Desktop**: Version control and project management
+
+---
+
+## Contact
+
+- **GitHub**: [github.com/SolomonSmith-dev](https://github.com/SolomonSmith-dev)
+- **Portfolio**: [solomon-smith-dev.tech](https://solomon-smith-dev.tech)
+- **LinkedIn**: [linkedin.com/in/solomon-smith](https://www.linkedin.com/in/solomon-smith)
+
+---
+
+This repository reflects my commitment to growth, continuous learning, and building real-world systems at the intersection of computer science and artificial intelligence.
