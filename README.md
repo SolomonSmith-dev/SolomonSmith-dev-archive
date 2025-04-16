@@ -1,4 +1,4 @@
-# Solomon Smith — Professional Portfolio
+# Solomon Smith
 
 This repository hosts the source code and structure for my professional portfolio website, built using GitHub Pages and Jekyll. The site highlights my ongoing work in computer science, with a focus on AI engineering, full-stack development, and systems programming.
 
