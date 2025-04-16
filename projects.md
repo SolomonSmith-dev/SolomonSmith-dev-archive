@@ -1,20 +1,35 @@
-[Home](./index.md) | [Projects](./projects.md) | [About Me](./about.md) | [Contact Me](mailto:solomonsmithdev@gmail.com)
+---
+layout: home
+title: "Projects"
+permalink: /projects/
+author_profile: true
+---
 
-## Current Projects
+This is a curated selection of projects that showcase my work across software engineering, AI/ML, and full-stack development.
 
-### Python + GitHub Weekly Learning Series
-A structured 12-week series to sharpen core Python, GitHub, and software engineering practices with version-controlled projects and weekly commits.
-- [GitHub Repository](https://github.com/SolomonSmith-dev/road_to_ai)
+---
 
-### AI + ML Experiments
-Building machine learning prototypes using TensorFlow, PyTorch, and scikit-learn with a focus on image classification, natural language understanding, and data pipelines.
-- [Coming Soon](#)
+### **[Farm Todo App](https://github.com/SolomonSmith-dev/farm-todo)**
 
-### Full-Stack Todo App with Docker
-React + FastAPI + MongoDB application containerized with Docker Compose. Built to explore modern deployment stacks.
-- [GitHub Repository](https://github.com/SolomonSmith-dev/farm-todo)
+**Stack:** React, FastAPI, MongoDB, Docker  
+A full-stack productivity app built with modern backend and frontend technologies. Features containerized deployment, persistent storage, and RESTful API integration.
 
-### Financial Tracker (Archived)
-A full-stack web app built with MERN stack to track income, expenses, and financial goals.
-- [GitHub Repository](https://github.com/SolomonSmith-dev/finance-tracker)
+---
 
+### **[Road to AI](https://github.com/SolomonSmith-dev/road_to_ai)**
+
+**Stack:** Python, Jupyter  
+A 12-week structured Python learning series focused on artificial intelligence foundations, core programming patterns, and data processing tools.
+
+---
+
+### **[Finance Tracker](https://github.com/SolomonSmith-dev/finance-tracker)**
+
+**Stack:** MERN (MongoDB, Express, React, Node.js)  
+A personal finance tracker built to manage expenses, goals, and budgeting over time. Includes CRUD operations, charting, and user authentication.
+
+---
+
+### **More Projects**
+
+Additional experiments and utilities can be found on my [GitHub](https://github.com/SolomonSmith-dev?tab=repositories).
