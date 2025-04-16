@@ -1,16 +1,20 @@
 [Home](./index.md) | [Projects](./projects.md) | [About Me](./about.md) | [Contact Me](mailto:solomonsmithdev@gmail.com)
 
+## Current Projects
 
-## My Projects
+### Python + GitHub Weekly Learning Series
+A structured 12-week series to sharpen core Python, GitHub, and software engineering practices with version-controlled projects and weekly commits.
+- [GitHub Repository](https://github.com/SolomonSmith-dev/road_to_ai)
 
-### Personal Finance Tracker
-- A full-stack application that allows users to track income, expenses, and financial goals. Built with React, Node.js, and MongoDB.
-- [GitHub Repository](https://github.com/yourusername/finance-tracker)
+### AI + ML Experiments
+Building machine learning prototypes using TensorFlow, PyTorch, and scikit-learn with a focus on image classification, natural language understanding, and data pipelines.
+- [Coming Soon](#)
 
-### Weather App
-- A weather app that provides real-time weather forecasts using the OpenWeather API.
-- [GitHub Repository](https://github.com/yourusername/weather-app)
+### Full-Stack Todo App with Docker
+React + FastAPI + MongoDB application containerized with Docker Compose. Built to explore modern deployment stacks.
+- [GitHub Repository](https://github.com/SolomonSmith-dev/farm-todo)
 
-### E-commerce Platform
-- A scalable e-commerce platform built with Django and integrated with Stripe for payment processing.
-- [GitHub Repository](https://github.com/yourusername/ecommerce-platform)
+### Financial Tracker (Archived)
+A full-stack web app built with MERN stack to track income, expenses, and financial goals.
+- [GitHub Repository](https://github.com/SolomonSmith-dev/finance-tracker)
+
