@@ -1,20 +1,45 @@
-[Home](./index.md) | [Projects](./projects.md) | [About Me](./about.md) | [Contact Me](mailto:solomonsmithdev@gmail.com)
+---
+layout: home
+title: "About Me"
+permalink: /about/
+author_profile: true
+---
 
-## About Me
+I'm Solomon Smith, a Computer Science major at CSU San Bernardino with a focus on artificial intelligence, machine learning, and backend engineering. I build real-world systems using Python, C++, and modern frameworks like FastAPI, PyTorch, TensorFlow, and Docker.
 
-I'm Solomon Smith, a Computer Science major at CSU San Bernardino with a professional focus on artificial intelligence and software engineering. My current work centers on Python, C++, machine learning frameworks (PyTorch, TensorFlow), and building scalable backend systems with FastAPI and Docker.
+---
 
-### Interests
+## Areas of Focus
 
-- Building deep learning pipelines for NLP and computer vision
-- Exploring algorithm design and low-level systems with C++
-- Contributing to equity in tech and building inclusive learning spaces
-- Open-source development and research in applied AI
+- **Machine Learning & Deep Learning**  
+  Working with image classification, NLP, and model deployment using PyTorch and TensorFlow.
 
-### Skills
+- **Systems Programming**  
+  Exploring data structures, algorithms, and performance-based thinking through structured C++ learning.
 
-- **Languages:** Python, C++, JavaScript
-- **Frameworks/Tools:** PyTorch, TensorFlow, FastAPI, React, Docker
-- **DevOps:** GitHub, GitHub Pages, VS Code, Git CLI, Linux/macOS
+- **Full-Stack Development**  
+  Creating scalable applications using React, FastAPI, MongoDB, and Docker.
 
-I'm currently seeking internships and research opportunities in AI/ML, backend engineering, and applied computer science.
+- **Tech Equity**  
+  I'm committed to contributing to inclusive spaces in tech through mentorship, community engagement, and open-source collaboration.
+
+---
+
+## Skills
+
+**Languages:** Python, C++, JavaScript  
+**Frameworks & Tools:** PyTorch, TensorFlow, FastAPI, React, Docker  
+**DevOps & Workflow:** GitHub, Git CLI, GitHub Pages, Visual Studio Code, Linux/macOS
+
+---
+
+## Currently Seeking
+
+- Internship opportunities in AI/ML or backend engineering  
+- Research roles in applied machine learning or software systems  
+- Teams or communities focused on practical, ethical uses of AI
+
+---
+
+[See my latest projects](/projects/) or read updates on my [blog](/blog/).  
+You can also connect with me on [GitHub](https://github.com/SolomonSmith-dev) or [LinkedIn](https://www.linkedin.com/in/solomon-smith).
