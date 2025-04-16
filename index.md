@@ -1,19 +1,12 @@
 [Home](./index.md) | [Projects](./projects.md) | [About Me](./about.md) | [Contact Me](mailto:solomonsmithdev@gmail.com)
 
-# Solomon Smith - Software Engineer
+# Solomon Smith
 
-Hello! I’m Solomon Smith, a software engineer and computer science major at California State University San Bernardino. I am passionate about building scalable applications and solving real-world problems through technology.
+I'm a Computer Science student at CSU San Bernardino with a focus on building real-world systems in artificial intelligence, machine learning, and full-stack web development. I build with technologies like Python, C++, FastAPI, Docker, and React, and I'm currently developing projects that apply machine learning to NLP, data classification, and image processing.
 
-### [Learn more about me](./about.md)
+[Learn more about me](./about.md)  
+[Explore my current projects](./projects.md)
 
-### [See all projects](./projects.md)
-
-### Connect with Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SolomonSmith-dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/solomonsmithdev/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/SolomonSmithDev)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:solomonsmithdev@gmail.com)
 
 
 
