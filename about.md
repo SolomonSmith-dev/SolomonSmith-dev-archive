@@ -42,4 +42,4 @@ I'm Solomon Smith, a Computer Science major at CSU San Bernardino with a focus o
 ---
 
 [See my latest projects](/projects/) or read updates on my [blog](/blog/).  
-You can also connect with me on [GitHub](https://github.com/SolomonSmith-dev) or [LinkedIn](https://www.linkedin.com/in/solomon-smith).
+You can also connect with me on [GitHub](https://github.com/SolomonSmith-dev) or [LinkedIn](https://www.linkedin.com/in/solomonsmithdev/).
