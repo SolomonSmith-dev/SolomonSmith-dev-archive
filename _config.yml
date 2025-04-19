@@ -1,12 +1,11 @@
-title: "Solomon Smith"
-description: "Portfolio of Solomon Smith — aspiring AI engineer and software developer."
-name: "Solomon Smith"
-url: "https://solomon-smith-dev.tech"
-baseurl: "" # Leave blank for root
+title: \"Solomon Smith\"
+description: \"Portfolio of Solomon Smith — aspiring AI engineer and software developer.\"
+name: \"Solomon Smith\"
+url: \"https://solomon-smith-dev.tech\"
+baseurl: \"\" # Leave blank for root
 
 # Theme settings
-
-minimal_mistakes_skin: "dark" # You can change to "air", "contrast", "mint", etc.
+minimal_mistakes_skin: \"dark\" # You can change to \"air\", \"contrast\", \"mint\", etc.
 
 plugins:
   - jekyll-remote-theme
@@ -15,27 +14,27 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
 
-remote_theme: "mmistakes/minimal-mistakes"
+remote_theme: \"mmistakes/minimal-mistakes\"
 
 # SEO
 author:
-  name: "Solomon Smith"
-  avatar: "/assets/images/avatar.png" # Add later
-  bio: "Computer Science major focused on AI, ML, and full-stack engineering."
-  location: "California, USA"
+  name: \"Solomon Smith\"
+  avatar: \"/assets/images/avatar.png\" # Add later
+  bio: \"Computer Science major focused on AI, ML, and full-stack engineering.\"
+  location: \"California, USA\"
   links:
-    - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/SolomonSmith-dev"
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/solomon-smith"
+    - label: \"GitHub\"
+      icon: \"fab fa-github\"
+      url: \"https://github.com/SolomonSmith-dev\"
+    - label: \"LinkedIn\"
+      icon: \"fab fa-linkedin\"
+      url: \"https://www.linkedin.com/in/solomonsmithdev/\"
 
 # Navigation
 defaults:
   - scope:
-      path: ""
-      type: "posts"
+      path: \"\"
+      type: \"posts\"
     values:
       layout: single
       author_profile: true
