@@ -1,12 +1,13 @@
-title: \"Solomon Smith\"
-description: \"Portfolio of Solomon Smith — aspiring AI engineer and software developer.\"
-name: \"Solomon Smith\"
+title: "Solomon Smith"
+description: "Portfolio of Solomon Smith — aspiring AI engineer and software developer."
+name: "Solomon Smith"
 url: "https://solomon-smith-dev.tech"
-baseurl: \"\" # Leave blank for root
+baseurl: ""
 
 # Theme settings
-minimal_mistakes_skin: \"dark\" # You can change to \"air\", \"contrast\", \"mint\", etc.
+remote_theme: pages-themes/minimal@v0.2.0
 
+# Plugins
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
@@ -14,12 +15,10 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
 
-remote_theme: \"mmistakes/minimal-mistakes\"
-
 # SEO
 author:
   name: "Solomon Smith"
-  avatar: "/assets/images/avatar.png" # Add later
+  avatar: "/assets/images/avatar.png"
   bio: "Computer Science major focused on AI, ML, and full-stack engineering."
   location: "California, USA"
   links:
