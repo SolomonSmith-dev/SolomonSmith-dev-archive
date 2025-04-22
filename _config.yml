@@ -43,3 +43,7 @@ defaults:
 markdown: kramdown
 highlighter: rouge
 
+collections:
+  pages:
+    output: true
+    permalink: /:path/
